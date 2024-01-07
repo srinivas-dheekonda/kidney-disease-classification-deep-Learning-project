@@ -1,3 +1,3 @@
 from src.cnnClassifier import logger
 
-logger.info("welcome to our custom log")
+logger.info("welome to our custom log")
