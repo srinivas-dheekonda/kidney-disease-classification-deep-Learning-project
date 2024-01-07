@@ -1,0 +1,19 @@
+tensorflow==2.12.0
+pandas
+#dvs #tracking tool
+mlflow==2.2.2
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML # to use yaml file 
+tqdm #progress bar
+ensure==1.0.2
+joblib
+types-pyYAML
+scipy
+Flask
+Flask-Cors
+gdown
+-e .
